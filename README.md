@@ -4,6 +4,7 @@ A simple, responsive double vertical slider built with HTML, CSS, and JavaScript
 
 ## Demo
 
+Demo Link: https://adi-creates.github.io/double-vertical-slider/
 
 ## Features
 
